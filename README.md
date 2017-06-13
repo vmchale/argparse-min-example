@@ -10,17 +10,17 @@ To run it yourself:
 ```
 
 You should get output something like the following. As you can see, python
-calculates the width of 'བོ་སྐད་གི་' incorrectly, because of the vowel markers.
+calculates the width of 'བོད་སྐད་ལ་' incorrectly, because of the vowel markers.
 
 ```bash
-usage: argparse-min-example [-h] [--language1 བོ་སྐད་གི་]
+usage: argparse-min-example [-h] [--language1 བོད་སྐད་ལ་]
                             [--language2 LANGUAGE]
 
 Process some integers.
 
 optional arguments:
   -h, --help            show this help message and exit
-  --language1 བོ་སྐད་གི་
+  --language1 བོད་སྐད་ལ་
                         Lanugage for output
   --language2 LANGUAGE  Lanugage for output
 ```
